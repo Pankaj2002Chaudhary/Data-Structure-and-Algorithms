@@ -1,0 +1,7 @@
+Problem Statement : 
+Take 5 real data sets. For each data set: (5 hours)
+a. Use a library and run a (heuristic)algorithm for the k-centre problem. Record
+the cost and the time. Run on toy data first.
+b. Implement/Use and run a greedy 2-approximation algorithm for the k-centre
+algorithm. Record the cost and the time, and compare with the observations in
+part (a). Run on toy data first.
